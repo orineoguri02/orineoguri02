@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,nextjs,c,cpp,java,js,react,ts,reactnative,firebase,dart,github,figma" />
-  <span> Supabase </span>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
 ---
