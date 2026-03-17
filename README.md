@@ -10,9 +10,12 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,reactnative,firebase,supabase,dart,github,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,reactnative,firebase,dart,github,figma" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
+</p>
 ---
 
 <p align="center">
