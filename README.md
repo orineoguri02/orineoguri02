@@ -30,8 +30,6 @@
 
 ---
 
-<p align="center"><b>이건우's GitHub</b></p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=orineoguri02&show_icons=true&theme=tokyonight" />
 </p>
