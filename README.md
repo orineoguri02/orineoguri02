@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=GunWoo's%20GitHub&fontSize=40&fontAlignY=35)
 
 ---
-
+<h2 align="center">항상 최선을 다해보자!</h2>
 <h3 align="center">📧 email : gunwoo5285@gmail.com</h3>
-<h4 align="center">항상 최선을 다해보자!</h4>
 
 ---
 
