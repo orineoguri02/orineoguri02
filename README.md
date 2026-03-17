@@ -1,8 +1,4 @@
-<h1 align="center">GunWoo's GitHub</h1>
-
-<p align="center">
-  <img src="./banner.png" width="600"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=GunWoo's%20GitHub&fontSize=40&fontAlignY=35)
 
 ---
 
@@ -17,9 +13,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=orineoguri02&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orineoguri&layout=compact&theme=tokyonight" />
 </p>
