@@ -2,6 +2,10 @@
 
 ---
 
+<h3 align="center">📧 email : gunwoo5285@gmail.com</h3>
+<h4 align="center">항상 최선을 다해보자!</h4>
+
+---
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,nextjs,c,cpp,java,js,react,ts,reactnative,firebase,supabase,dart,github,figma" />
@@ -14,5 +18,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orineoguri&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orineoguri02&layout=compact&theme=tokyonight" />
 </p>
